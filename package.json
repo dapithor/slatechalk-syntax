@@ -1,7 +1,7 @@
 {
   "name": "slatechalk-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Dark theme with chalk like colors",
   "repository": "https://github.com/dapithor/slatechalk-syntax",
   "license": "MIT",
